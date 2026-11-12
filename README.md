@@ -126,6 +126,29 @@ The following deployment checks were completed:
 
 https://github.com/harsha18333/cd12354-Movie-Picture-Pipeline
 
+## Project Screenshots
+
+### Frontend Application
+![Frontend Application](screenshots/Screenshot%202026-11-12%20130643.png)
+
+### Backend API
+![Backend API](screenshots/Screenshot%202026-11-12%20131646.png)
+
+### Frontend CI/CD
+![Frontend CI](screenshots/Frontend-CI.png)
+![Frontend CD](screenshots/Frontend%20CD.png)
+
+### Backend CI/CD
+![Backend CI](screenshots/Backend%20CI.png)
+![Backend CD](screenshots/Backend%20CD.png)
+
+### AWS EKS Deployment
+![EKS Pods and Services](screenshots/08-eks-pods-services.png.png)
+
+### AWS ECR Images
+![Frontend ECR](screenshots/frontend-ecr-images.png)
+![Backend ECR](screenshots/backend-ecr-images.png)
+
 ## Conclusion
 
 The Movie Picture Pipeline project demonstrates an automated CI/CD process using GitHub Actions, Docker, Amazon ECR, Amazon EKS, Kubernetes, and Terraform. Both frontend and backend applications were successfully built, deployed, and verified.
